@@ -1,0 +1,19 @@
+{
+  "name": "logstatsjs",
+  "title": "logstatsjs",
+  "description": "JavaScript library for sending logs to logstats",
+  "version": "1.0.0",
+  "author": {
+	"name": "Marek Turis",
+	"email": "marek.turis@gmail.com"
+  },
+  "keywords": [
+	"logstats",
+	"log",
+	"library",
+	"javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
